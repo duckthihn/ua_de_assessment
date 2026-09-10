@@ -1,0 +1,30 @@
+Pillar,Sub_Pillar,Department,KPI_Name,Sub_KPI_Type,Unit,Target,Jan-24,Feb-24,Mar-24,Apr-24,May-24,Jun-24,Jul-24,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24
+FS,Cost Efficiency,Finance,OT Cost Ratio,Direct,%,0.12,0.11,0.13,0.14,,0.12,0.11,,0.15,0.12,0.11,0.13,
+FS,Cost Efficiency,Finance,OT Cost Ratio,Indirect,%,0.05,0.04,0.05,0.06,0.05,,0.04,0.05,0.06,0.04,0.05,0.05,0.06
+FS,Cost Efficiency,Finance,CMP Cost Ratio,Direct,%,0.08,0.07,0.08,0.09,0.08,0.07,,0.08,0.09,0.07,0.08,0.09,
+FS,Cost Efficiency,Finance,CMP Cost Ratio,Indirect,%,0.03,0.03,0.03,0.04,0.03,0.03,0.03,,0.04,0.03,0.03,0.03,0.03
+FS,Revenue,Commercial,FOB Revenue,Export,Number,1200000,98000,105000,112000,,118000,121000,115000,,109000,116000,120000,
+FS,Revenue,Commercial,FOB Revenue,Domestic,Number,300000,24000,26000,,28000,25000,27000,26000,28000,,27000,25000,26000
+FS,Waste,Production,Fabric Waste Rate,,%,0.05,0.06,0.05,0.04,0.06,0.05,,0.07,0.05,0.04,0.06,0.05,
+FS,Waste,Production,Fabric Waste Rate,Knit,%,0.04,0.05,0.04,0.04,0.05,,0.04,0.04,0.05,0.04,0.04,0.05,0.04
+FS,Waste,Production,Fabric Waste Rate,Woven,%,0.06,0.07,0.06,0.06,0.07,0.06,,0.07,0.06,0.06,0.07,0.06,
+CE,Delivery,Logistics,On Time Delivery Rate,Air,%,0.95,0.94,0.93,,0.95,0.96,0.94,0.95,,0.93,0.95,0.96,
+CE,Delivery,Logistics,On Time Delivery Rate,Sea,%,0.90,0.88,0.90,0.91,,0.89,0.90,0.88,0.91,,0.90,0.89,0.90
+CE,Quality,QC,Defect Rate,Critical,%,0.02,0.03,0.02,0.01,0.02,,0.03,0.02,0.01,0.02,,0.02,0.03
+CE,Quality,QC,Defect Rate,Minor,%,0.05,0.06,0.05,0.04,0.05,0.06,,0.05,0.04,0.06,0.05,,0.06
+CE,Quality,QC,Customer Returns,,Number,50,45,52,48,,55,43,49,,51,47,50,
+CE,NPS,Commercial,Net Promoter Score,,Number,70,68,72,70,71,,69,73,70,,71,72,70
+CE,NPS,Commercial,Net Promoter Score,Key Account,Number,75,72,75,73,,76,74,77,73,,75,76,74
+OF,Productivity,Production,Line Efficiency,Line A,%,0.85,0.83,0.84,0.86,,0.85,0.83,0.84,0.86,,0.85,0.84,
+OF,Productivity,Production,Line Efficiency,Line B,%,0.82,0.80,0.81,0.83,0.82,,0.80,0.82,0.83,0.81,,0.82,0.80
+OF,Productivity,Production,Line Efficiency,Line C,%,0.80,0.78,0.80,0.81,,0.79,0.80,0.78,,0.81,0.79,0.80,
+OF,Headcount,HR,Headcount,Permanent,Number,450,445,448,450,452,,455,448,450,,452,455,450
+OF,Headcount,HR,Headcount,Seasonal,Number,80,70,75,,85,90,88,82,,75,78,80,
+OF,Headcount,HR,Headcount,Contractor,Number,30,28,30,32,,31,29,30,,28,31,32,30
+OF,Turnover,HR,Staff Turnover Rate,,%,0.02,0.03,0.02,0.02,,0.03,0.02,0.01,0.02,,0.02,0.03,
+OF,Training,HR,Training Completion,Internal,%,1.00,0.80,0.85,0.90,,0.88,0.92,0.85,0.90,,0.88,0.91,
+OF,Training,HR,Training Completion,External,Number,50,5,6,4,,7,5,6,,4,5,7,6
+PP,Engagement,HR,Employee Engagement Score,,Number,80,,78,,79,,80,,81,,79,,80
+PP,Safety,HSE,Lost Time Injury Rate,,Number,0,0,0,1,0,0,,0,0,0,1,0,0
+PP,Safety,HSE,Near Miss Reports,,Number,10,8,12,9,,11,10,,12,8,10,11,
+PP,Wellness,HR,Sick Days per Employee,,Number,3,3.2,2.8,3.1,,3.4,2.9,3.0,,3.3,2.8,3.1,

@@ -1,0 +1,349 @@
+UA_ID,KPI_Name,Sub_KPI_Type,Period,actual_value,ytd_actual
+CE-001,On Time Delivery Rate,Air,2024-01,0.94,0.94
+CE-001,On Time Delivery Rate,Air,2024-02,0.93,1.87
+CE-001,On Time Delivery Rate,Air,2024-03,,
+CE-001,On Time Delivery Rate,Air,2024-04,0.95,2.82
+CE-001,On Time Delivery Rate,Air,2024-05,0.96,3.78
+CE-001,On Time Delivery Rate,Air,2024-06,0.94,4.72
+CE-001,On Time Delivery Rate,Air,2024-07,0.95,5.67
+CE-001,On Time Delivery Rate,Air,2024-08,,
+CE-001,On Time Delivery Rate,Air,2024-09,0.93,6.6
+CE-001,On Time Delivery Rate,Air,2024-10,0.95,7.55
+CE-001,On Time Delivery Rate,Air,2024-11,0.96,8.51
+CE-001,On Time Delivery Rate,Air,2024-12,,
+CE-002,On Time Delivery Rate,Sea,2024-01,0.88,0.88
+CE-002,On Time Delivery Rate,Sea,2024-02,0.9,1.78
+CE-002,On Time Delivery Rate,Sea,2024-03,0.91,2.69
+CE-002,On Time Delivery Rate,Sea,2024-04,,
+CE-002,On Time Delivery Rate,Sea,2024-05,0.89,3.58
+CE-002,On Time Delivery Rate,Sea,2024-06,0.9,4.48
+CE-002,On Time Delivery Rate,Sea,2024-07,0.88,5.36
+CE-002,On Time Delivery Rate,Sea,2024-08,0.91,6.2700000000000005
+CE-002,On Time Delivery Rate,Sea,2024-09,,
+CE-002,On Time Delivery Rate,Sea,2024-10,0.9,7.17
+CE-002,On Time Delivery Rate,Sea,2024-11,0.89,8.06
+CE-002,On Time Delivery Rate,Sea,2024-12,0.9,8.96
+CE-003,Defect Rate,Critical,2024-01,0.03,0.03
+CE-003,Defect Rate,Critical,2024-02,0.02,0.05
+CE-003,Defect Rate,Critical,2024-03,0.01,0.06
+CE-003,Defect Rate,Critical,2024-04,0.02,0.08
+CE-003,Defect Rate,Critical,2024-05,,
+CE-003,Defect Rate,Critical,2024-06,0.03,0.11
+CE-003,Defect Rate,Critical,2024-07,0.02,0.13
+CE-003,Defect Rate,Critical,2024-08,0.01,0.14
+CE-003,Defect Rate,Critical,2024-09,0.02,0.16
+CE-003,Defect Rate,Critical,2024-10,,
+CE-003,Defect Rate,Critical,2024-11,0.02,0.18
+CE-003,Defect Rate,Critical,2024-12,0.03,0.21
+CE-004,Defect Rate,Minor,2024-01,0.06,0.06
+CE-004,Defect Rate,Minor,2024-02,0.05,0.11
+CE-004,Defect Rate,Minor,2024-03,0.04,0.15
+CE-004,Defect Rate,Minor,2024-04,0.05,0.2
+CE-004,Defect Rate,Minor,2024-05,0.06,0.26
+CE-004,Defect Rate,Minor,2024-06,,
+CE-004,Defect Rate,Minor,2024-07,0.05,0.31
+CE-004,Defect Rate,Minor,2024-08,0.04,0.35
+CE-004,Defect Rate,Minor,2024-09,0.06,0.41000000000000003
+CE-004,Defect Rate,Minor,2024-10,0.05,0.46
+CE-004,Defect Rate,Minor,2024-11,,
+CE-004,Defect Rate,Minor,2024-12,0.06,0.52
+CE-005,Customer Returns,ALL,2024-01,45.0,45.0
+CE-005,Customer Returns,ALL,2024-02,52.0,97.0
+CE-005,Customer Returns,ALL,2024-03,48.0,145.0
+CE-005,Customer Returns,ALL,2024-04,,
+CE-005,Customer Returns,ALL,2024-05,55.0,200.0
+CE-005,Customer Returns,ALL,2024-06,43.0,243.0
+CE-005,Customer Returns,ALL,2024-07,49.0,292.0
+CE-005,Customer Returns,ALL,2024-08,,
+CE-005,Customer Returns,ALL,2024-09,51.0,343.0
+CE-005,Customer Returns,ALL,2024-10,47.0,390.0
+CE-005,Customer Returns,ALL,2024-11,50.0,440.0
+CE-005,Customer Returns,ALL,2024-12,,
+CE-006,Net Promoter Score,ALL,2024-01,68.0,68.0
+CE-006,Net Promoter Score,ALL,2024-02,72.0,140.0
+CE-006,Net Promoter Score,ALL,2024-03,70.0,210.0
+CE-006,Net Promoter Score,ALL,2024-04,71.0,281.0
+CE-006,Net Promoter Score,ALL,2024-05,,
+CE-006,Net Promoter Score,ALL,2024-06,69.0,350.0
+CE-006,Net Promoter Score,ALL,2024-07,73.0,423.0
+CE-006,Net Promoter Score,ALL,2024-08,70.0,493.0
+CE-006,Net Promoter Score,ALL,2024-09,,
+CE-006,Net Promoter Score,ALL,2024-10,71.0,564.0
+CE-006,Net Promoter Score,ALL,2024-11,72.0,636.0
+CE-006,Net Promoter Score,ALL,2024-12,70.0,706.0
+CE-007,Net Promoter Score,Key Account,2024-01,72.0,72.0
+CE-007,Net Promoter Score,Key Account,2024-02,75.0,147.0
+CE-007,Net Promoter Score,Key Account,2024-03,73.0,220.0
+CE-007,Net Promoter Score,Key Account,2024-04,,
+CE-007,Net Promoter Score,Key Account,2024-05,76.0,296.0
+CE-007,Net Promoter Score,Key Account,2024-06,74.0,370.0
+CE-007,Net Promoter Score,Key Account,2024-07,77.0,447.0
+CE-007,Net Promoter Score,Key Account,2024-08,73.0,520.0
+CE-007,Net Promoter Score,Key Account,2024-09,,
+CE-007,Net Promoter Score,Key Account,2024-10,75.0,595.0
+CE-007,Net Promoter Score,Key Account,2024-11,76.0,671.0
+CE-007,Net Promoter Score,Key Account,2024-12,74.0,745.0
+OF-001,Line Efficiency,Line A,2024-01,0.83,0.83
+OF-001,Line Efficiency,Line A,2024-02,0.84,1.67
+OF-001,Line Efficiency,Line A,2024-03,0.86,2.53
+OF-001,Line Efficiency,Line A,2024-04,,
+OF-001,Line Efficiency,Line A,2024-05,0.85,3.38
+OF-001,Line Efficiency,Line A,2024-06,0.83,4.21
+OF-001,Line Efficiency,Line A,2024-07,0.84,5.05
+OF-001,Line Efficiency,Line A,2024-08,0.86,5.91
+OF-001,Line Efficiency,Line A,2024-09,,
+OF-001,Line Efficiency,Line A,2024-10,0.85,6.76
+OF-001,Line Efficiency,Line A,2024-11,0.84,7.6
+OF-001,Line Efficiency,Line A,2024-12,,
+OF-002,Line Efficiency,Line B,2024-01,0.8,0.8
+OF-002,Line Efficiency,Line B,2024-02,0.81,1.61
+OF-002,Line Efficiency,Line B,2024-03,0.83,2.44
+OF-002,Line Efficiency,Line B,2024-04,0.82,3.26
+OF-002,Line Efficiency,Line B,2024-05,,
+OF-002,Line Efficiency,Line B,2024-06,0.8,4.0600000000000005
+OF-002,Line Efficiency,Line B,2024-07,0.82,4.88
+OF-002,Line Efficiency,Line B,2024-08,0.83,5.71
+OF-002,Line Efficiency,Line B,2024-09,0.81,6.52
+OF-002,Line Efficiency,Line B,2024-10,,
+OF-002,Line Efficiency,Line B,2024-11,0.82,7.34
+OF-002,Line Efficiency,Line B,2024-12,0.8,8.14
+OF-003,Line Efficiency,Line C,2024-01,0.78,0.78
+OF-003,Line Efficiency,Line C,2024-02,0.8,1.58
+OF-003,Line Efficiency,Line C,2024-03,0.81,2.39
+OF-003,Line Efficiency,Line C,2024-04,,
+OF-003,Line Efficiency,Line C,2024-05,0.79,3.18
+OF-003,Line Efficiency,Line C,2024-06,0.8,3.9800000000000004
+OF-003,Line Efficiency,Line C,2024-07,0.78,4.76
+OF-003,Line Efficiency,Line C,2024-08,,
+OF-003,Line Efficiency,Line C,2024-09,0.81,5.57
+OF-003,Line Efficiency,Line C,2024-10,0.79,6.36
+OF-003,Line Efficiency,Line C,2024-11,0.8,7.16
+OF-003,Line Efficiency,Line C,2024-12,,
+OF-004,Headcount,Permanent,2024-01,445.0,445.0
+OF-004,Headcount,Permanent,2024-02,448.0,893.0
+OF-004,Headcount,Permanent,2024-03,450.0,1343.0
+OF-004,Headcount,Permanent,2024-04,452.0,1795.0
+OF-004,Headcount,Permanent,2024-05,,
+OF-004,Headcount,Permanent,2024-06,455.0,2250.0
+OF-004,Headcount,Permanent,2024-07,448.0,2698.0
+OF-004,Headcount,Permanent,2024-08,450.0,3148.0
+OF-004,Headcount,Permanent,2024-09,,
+OF-004,Headcount,Permanent,2024-10,452.0,3600.0
+OF-004,Headcount,Permanent,2024-11,455.0,4055.0
+OF-004,Headcount,Permanent,2024-12,450.0,4505.0
+OF-005,Headcount,Seasonal,2024-01,70.0,70.0
+OF-005,Headcount,Seasonal,2024-02,75.0,145.0
+OF-005,Headcount,Seasonal,2024-03,,
+OF-005,Headcount,Seasonal,2024-04,85.0,230.0
+OF-005,Headcount,Seasonal,2024-05,90.0,320.0
+OF-005,Headcount,Seasonal,2024-06,88.0,408.0
+OF-005,Headcount,Seasonal,2024-07,82.0,490.0
+OF-005,Headcount,Seasonal,2024-08,,
+OF-005,Headcount,Seasonal,2024-09,75.0,565.0
+OF-005,Headcount,Seasonal,2024-10,78.0,643.0
+OF-005,Headcount,Seasonal,2024-11,80.0,723.0
+OF-005,Headcount,Seasonal,2024-12,,
+OF-006,Headcount,Contractor,2024-01,28.0,28.0
+OF-006,Headcount,Contractor,2024-02,30.0,58.0
+OF-006,Headcount,Contractor,2024-03,32.0,90.0
+OF-006,Headcount,Contractor,2024-04,,
+OF-006,Headcount,Contractor,2024-05,31.0,121.0
+OF-006,Headcount,Contractor,2024-06,29.0,150.0
+OF-006,Headcount,Contractor,2024-07,30.0,180.0
+OF-006,Headcount,Contractor,2024-08,,
+OF-006,Headcount,Contractor,2024-09,28.0,208.0
+OF-006,Headcount,Contractor,2024-10,31.0,239.0
+OF-006,Headcount,Contractor,2024-11,32.0,271.0
+OF-006,Headcount,Contractor,2024-12,30.0,301.0
+OF-007,Staff Turnover Rate,ALL,2024-01,0.03,0.03
+OF-007,Staff Turnover Rate,ALL,2024-02,0.02,0.05
+OF-007,Staff Turnover Rate,ALL,2024-03,0.02,0.07
+OF-007,Staff Turnover Rate,ALL,2024-04,,
+OF-007,Staff Turnover Rate,ALL,2024-05,0.03,0.1
+OF-007,Staff Turnover Rate,ALL,2024-06,0.02,0.12
+OF-007,Staff Turnover Rate,ALL,2024-07,0.01,0.13
+OF-007,Staff Turnover Rate,ALL,2024-08,0.02,0.15
+OF-007,Staff Turnover Rate,ALL,2024-09,,
+OF-007,Staff Turnover Rate,ALL,2024-10,0.02,0.17
+OF-007,Staff Turnover Rate,ALL,2024-11,0.03,0.2
+OF-007,Staff Turnover Rate,ALL,2024-12,,
+OF-008,Training Completion,Internal,2024-01,0.8,0.8
+OF-008,Training Completion,Internal,2024-02,0.85,1.65
+OF-008,Training Completion,Internal,2024-03,0.9,2.55
+OF-008,Training Completion,Internal,2024-04,,
+OF-008,Training Completion,Internal,2024-05,0.88,3.43
+OF-008,Training Completion,Internal,2024-06,0.92,4.35
+OF-008,Training Completion,Internal,2024-07,0.85,5.2
+OF-008,Training Completion,Internal,2024-08,0.9,6.1
+OF-008,Training Completion,Internal,2024-09,,
+OF-008,Training Completion,Internal,2024-10,0.88,6.98
+OF-008,Training Completion,Internal,2024-11,0.91,7.890000000000001
+OF-008,Training Completion,Internal,2024-12,,
+OF-009,Training Completion,External,2024-01,5.0,5.0
+OF-009,Training Completion,External,2024-02,6.0,11.0
+OF-009,Training Completion,External,2024-03,4.0,15.0
+OF-009,Training Completion,External,2024-04,,
+OF-009,Training Completion,External,2024-05,7.0,22.0
+OF-009,Training Completion,External,2024-06,5.0,27.0
+OF-009,Training Completion,External,2024-07,6.0,33.0
+OF-009,Training Completion,External,2024-08,,
+OF-009,Training Completion,External,2024-09,4.0,37.0
+OF-009,Training Completion,External,2024-10,5.0,42.0
+OF-009,Training Completion,External,2024-11,7.0,49.0
+OF-009,Training Completion,External,2024-12,6.0,55.0
+PP-001,Employee Engagement Score,ALL,2024-01,,
+PP-001,Employee Engagement Score,ALL,2024-02,78.0,78.0
+PP-001,Employee Engagement Score,ALL,2024-03,,
+PP-001,Employee Engagement Score,ALL,2024-04,79.0,157.0
+PP-001,Employee Engagement Score,ALL,2024-05,,
+PP-001,Employee Engagement Score,ALL,2024-06,80.0,237.0
+PP-001,Employee Engagement Score,ALL,2024-07,,
+PP-001,Employee Engagement Score,ALL,2024-08,81.0,318.0
+PP-001,Employee Engagement Score,ALL,2024-09,,
+PP-001,Employee Engagement Score,ALL,2024-10,79.0,397.0
+PP-001,Employee Engagement Score,ALL,2024-11,,
+PP-001,Employee Engagement Score,ALL,2024-12,80.0,477.0
+PP-002,Lost Time Injury Rate,ALL,2024-01,0.0,0.0
+PP-002,Lost Time Injury Rate,ALL,2024-02,0.0,0.0
+PP-002,Lost Time Injury Rate,ALL,2024-03,1.0,1.0
+PP-002,Lost Time Injury Rate,ALL,2024-04,0.0,1.0
+PP-002,Lost Time Injury Rate,ALL,2024-05,0.0,1.0
+PP-002,Lost Time Injury Rate,ALL,2024-06,,
+PP-002,Lost Time Injury Rate,ALL,2024-07,0.0,1.0
+PP-002,Lost Time Injury Rate,ALL,2024-08,0.0,1.0
+PP-002,Lost Time Injury Rate,ALL,2024-09,0.0,1.0
+PP-002,Lost Time Injury Rate,ALL,2024-10,1.0,2.0
+PP-002,Lost Time Injury Rate,ALL,2024-11,0.0,2.0
+PP-002,Lost Time Injury Rate,ALL,2024-12,0.0,2.0
+PP-003,Near Miss Reports,ALL,2024-01,8.0,8.0
+PP-003,Near Miss Reports,ALL,2024-02,12.0,20.0
+PP-003,Near Miss Reports,ALL,2024-03,9.0,29.0
+PP-003,Near Miss Reports,ALL,2024-04,,
+PP-003,Near Miss Reports,ALL,2024-05,11.0,40.0
+PP-003,Near Miss Reports,ALL,2024-06,10.0,50.0
+PP-003,Near Miss Reports,ALL,2024-07,,
+PP-003,Near Miss Reports,ALL,2024-08,12.0,62.0
+PP-003,Near Miss Reports,ALL,2024-09,8.0,70.0
+PP-003,Near Miss Reports,ALL,2024-10,10.0,80.0
+PP-003,Near Miss Reports,ALL,2024-11,11.0,91.0
+PP-003,Near Miss Reports,ALL,2024-12,,
+PP-004,Sick Days per Employee,ALL,2024-01,3.2,3.2
+PP-004,Sick Days per Employee,ALL,2024-02,2.8,6.0
+PP-004,Sick Days per Employee,ALL,2024-03,3.1,9.1
+PP-004,Sick Days per Employee,ALL,2024-04,,
+PP-004,Sick Days per Employee,ALL,2024-05,3.4,12.5
+PP-004,Sick Days per Employee,ALL,2024-06,2.9,15.4
+PP-004,Sick Days per Employee,ALL,2024-07,3.0,18.4
+PP-004,Sick Days per Employee,ALL,2024-08,,
+PP-004,Sick Days per Employee,ALL,2024-09,3.3,21.7
+PP-004,Sick Days per Employee,ALL,2024-10,2.8,24.5
+PP-004,Sick Days per Employee,ALL,2024-11,3.1,27.6
+PP-004,Sick Days per Employee,ALL,2024-12,,
+UA-001,OT Cost Ratio,Direct,2024-01,0.11,0.11
+UA-001,OT Cost Ratio,Direct,2024-02,0.13,0.24
+UA-001,OT Cost Ratio,Direct,2024-03,0.14,0.38
+UA-001,OT Cost Ratio,Direct,2024-04,,
+UA-001,OT Cost Ratio,Direct,2024-05,0.12,0.5
+UA-001,OT Cost Ratio,Direct,2024-06,0.11,0.61
+UA-001,OT Cost Ratio,Direct,2024-07,,
+UA-001,OT Cost Ratio,Direct,2024-08,0.15,0.76
+UA-001,OT Cost Ratio,Direct,2024-09,0.12,0.88
+UA-001,OT Cost Ratio,Direct,2024-10,0.11,0.99
+UA-001,OT Cost Ratio,Direct,2024-11,0.13,1.12
+UA-001,OT Cost Ratio,Direct,2024-12,,
+UA-002,OT Cost Ratio,Indirect,2024-01,0.04,0.04
+UA-002,OT Cost Ratio,Indirect,2024-02,0.05,0.09
+UA-002,OT Cost Ratio,Indirect,2024-03,0.06,0.15
+UA-002,OT Cost Ratio,Indirect,2024-04,0.05,0.2
+UA-002,OT Cost Ratio,Indirect,2024-05,,
+UA-002,OT Cost Ratio,Indirect,2024-06,0.04,0.24
+UA-002,OT Cost Ratio,Indirect,2024-07,0.05,0.29000000000000004
+UA-002,OT Cost Ratio,Indirect,2024-08,0.06,0.35
+UA-002,OT Cost Ratio,Indirect,2024-09,0.04,0.39
+UA-002,OT Cost Ratio,Indirect,2024-10,0.05,0.44
+UA-002,OT Cost Ratio,Indirect,2024-11,0.05,0.49
+UA-002,OT Cost Ratio,Indirect,2024-12,0.06,0.55
+UA-003,CMP Cost Ratio,Direct,2024-01,0.07,0.07
+UA-003,CMP Cost Ratio,Direct,2024-02,0.08,0.15000000000000002
+UA-003,CMP Cost Ratio,Direct,2024-03,0.09,0.24
+UA-003,CMP Cost Ratio,Direct,2024-04,0.08,0.32
+UA-003,CMP Cost Ratio,Direct,2024-05,0.07,0.39
+UA-003,CMP Cost Ratio,Direct,2024-06,,
+UA-003,CMP Cost Ratio,Direct,2024-07,0.08,0.47000000000000003
+UA-003,CMP Cost Ratio,Direct,2024-08,0.09,0.56
+UA-003,CMP Cost Ratio,Direct,2024-09,0.07,0.63
+UA-003,CMP Cost Ratio,Direct,2024-10,0.08,0.71
+UA-003,CMP Cost Ratio,Direct,2024-11,0.09,0.8
+UA-003,CMP Cost Ratio,Direct,2024-12,,
+UA-004,CMP Cost Ratio,Indirect,2024-01,0.03,0.03
+UA-004,CMP Cost Ratio,Indirect,2024-02,0.03,0.06
+UA-004,CMP Cost Ratio,Indirect,2024-03,0.04,0.1
+UA-004,CMP Cost Ratio,Indirect,2024-04,0.03,0.13
+UA-004,CMP Cost Ratio,Indirect,2024-05,0.03,0.16
+UA-004,CMP Cost Ratio,Indirect,2024-06,0.03,0.19
+UA-004,CMP Cost Ratio,Indirect,2024-07,,
+UA-004,CMP Cost Ratio,Indirect,2024-08,0.04,0.22999999999999998
+UA-004,CMP Cost Ratio,Indirect,2024-09,0.03,0.26
+UA-004,CMP Cost Ratio,Indirect,2024-10,0.03,0.29
+UA-004,CMP Cost Ratio,Indirect,2024-11,0.03,0.32
+UA-004,CMP Cost Ratio,Indirect,2024-12,0.03,0.35
+UA-005,FOB Revenue,Export,2024-01,98000.0,98000.0
+UA-005,FOB Revenue,Export,2024-02,105000.0,203000.0
+UA-005,FOB Revenue,Export,2024-03,112000.0,315000.0
+UA-005,FOB Revenue,Export,2024-04,,
+UA-005,FOB Revenue,Export,2024-05,118000.0,433000.0
+UA-005,FOB Revenue,Export,2024-06,121000.0,554000.0
+UA-005,FOB Revenue,Export,2024-07,115000.0,669000.0
+UA-005,FOB Revenue,Export,2024-08,,
+UA-005,FOB Revenue,Export,2024-09,109000.0,778000.0
+UA-005,FOB Revenue,Export,2024-10,116000.0,894000.0
+UA-005,FOB Revenue,Export,2024-11,120000.0,1014000.0
+UA-005,FOB Revenue,Export,2024-12,,
+UA-006,FOB Revenue,Domestic,2024-01,24000.0,24000.0
+UA-006,FOB Revenue,Domestic,2024-02,26000.0,50000.0
+UA-006,FOB Revenue,Domestic,2024-03,,
+UA-006,FOB Revenue,Domestic,2024-04,28000.0,78000.0
+UA-006,FOB Revenue,Domestic,2024-05,25000.0,103000.0
+UA-006,FOB Revenue,Domestic,2024-06,27000.0,130000.0
+UA-006,FOB Revenue,Domestic,2024-07,26000.0,156000.0
+UA-006,FOB Revenue,Domestic,2024-08,28000.0,184000.0
+UA-006,FOB Revenue,Domestic,2024-09,,
+UA-006,FOB Revenue,Domestic,2024-10,27000.0,211000.0
+UA-006,FOB Revenue,Domestic,2024-11,25000.0,236000.0
+UA-006,FOB Revenue,Domestic,2024-12,26000.0,262000.0
+UA-007,Fabric Waste Rate,ALL,2024-01,0.06,0.06
+UA-007,Fabric Waste Rate,ALL,2024-02,0.05,0.11
+UA-007,Fabric Waste Rate,ALL,2024-03,0.04,0.15
+UA-007,Fabric Waste Rate,ALL,2024-04,0.06,0.21
+UA-007,Fabric Waste Rate,ALL,2024-05,0.05,0.26
+UA-007,Fabric Waste Rate,ALL,2024-06,,
+UA-007,Fabric Waste Rate,ALL,2024-07,0.07,0.33
+UA-007,Fabric Waste Rate,ALL,2024-08,0.05,0.38
+UA-007,Fabric Waste Rate,ALL,2024-09,0.04,0.42000000000000004
+UA-007,Fabric Waste Rate,ALL,2024-10,0.06,0.48000000000000004
+UA-007,Fabric Waste Rate,ALL,2024-11,0.05,0.53
+UA-007,Fabric Waste Rate,ALL,2024-12,,
+UA-008,Fabric Waste Rate,Knit,2024-01,0.05,0.05
+UA-008,Fabric Waste Rate,Knit,2024-02,0.04,0.09
+UA-008,Fabric Waste Rate,Knit,2024-03,0.04,0.13
+UA-008,Fabric Waste Rate,Knit,2024-04,0.05,0.18
+UA-008,Fabric Waste Rate,Knit,2024-05,,
+UA-008,Fabric Waste Rate,Knit,2024-06,0.04,0.22
+UA-008,Fabric Waste Rate,Knit,2024-07,0.04,0.26
+UA-008,Fabric Waste Rate,Knit,2024-08,0.05,0.31
+UA-008,Fabric Waste Rate,Knit,2024-09,0.04,0.35000000000000003
+UA-008,Fabric Waste Rate,Knit,2024-10,0.04,0.39
+UA-008,Fabric Waste Rate,Knit,2024-11,0.05,0.44
+UA-008,Fabric Waste Rate,Knit,2024-12,0.04,0.48000000000000004
+UA-009,Fabric Waste Rate,Woven,2024-01,0.07,0.07
+UA-009,Fabric Waste Rate,Woven,2024-02,0.06,0.13
+UA-009,Fabric Waste Rate,Woven,2024-03,0.06,0.19
+UA-009,Fabric Waste Rate,Woven,2024-04,0.07,0.26
+UA-009,Fabric Waste Rate,Woven,2024-05,0.06,0.32
+UA-009,Fabric Waste Rate,Woven,2024-06,,
+UA-009,Fabric Waste Rate,Woven,2024-07,0.07,0.39
+UA-009,Fabric Waste Rate,Woven,2024-08,0.06,0.45
+UA-009,Fabric Waste Rate,Woven,2024-09,0.06,0.51
+UA-009,Fabric Waste Rate,Woven,2024-10,0.07,0.5800000000000001
+UA-009,Fabric Waste Rate,Woven,2024-11,0.06,0.64
+UA-009,Fabric Waste Rate,Woven,2024-12,,

@@ -1,0 +1,34 @@
+order_no,category,amount,currency,period,customer_name,season,drop,fabric_type
+ORD-001,fabric,15000.00,USD,2024-01,Sunrise Apparel,SS24,D1,Cotton
+ORD-001,trim,3200.00,USD,2024-01,Sunrise Apparel,SS24,D1,Cotton
+ORD-001,outsource,1800.00,USD,2024-01,Sunrise Apparel,SS24,D1,Cotton
+ORD-002,fabric,875O.00,EUR,2024/01,sunrise apparel,SS24,D1,Polyester
+ORD-002,outsource,2100.00,EUR,January 2024,Sunrise Apparel ,SS24,D1,Polyester
+ORD-002,trim,950.00,EUR,01/2024,sunrise apparel ,SS24,D1,Polyester
+ORD-003,fabric ,12000.00,VND,01-2024,SUNRISE APPAREL,AW24,D2,Cotton
+ORD-003, outsource,4500.00,VND,2024-01,Sunrise Apparel,AW24,D2,Cotton
+ORD-003,TRIM,2200.00,VND,Jan-2024,Sunrise Apparel,AW24,D2,Cotton
+ORD-004,fabric,9800.00,USD,Feb 2024,Sunrise Apparel,AW24,D2,Linen
+ORD-004,trim,1500.00,USD,February 2024,Sunrise Apparel ,AW24,D2,Linen
+ORD-004, outsource,3200.00,USD,02-2024,SUNRISE APPAREL,AW24,D2,Linen
+ORD-005,FABRIC,22000.00,USD,2024-02,New Wave Co.,SS24,D1,Cotton
+ORD-005,Trim,41OO.00,USD,2024-02,New Wave Co.,SS24,D1,Cotton
+ORD-005,outsource,6200.00,EUR,2024-02,New Wave Co.,SS24,D1,Cotton
+ORD-005,OUTSOURCE,620O.00,EUR,Feb 2024,new wave co.,SS24,D1,Cotton
+ORD-006,fabric,18500.00,USD,2024-03,Blue Horizon Ltd,AW24,D3,Silk
+ORD-006,trim,2800.00,USD,March 2024,Blue Horizon Ltd,AW24,D3,Silk
+ORD-006,outsource,4100.00,USD,03-2024,blue horizon ltd,AW24,D3,Silk
+ORD-007,fabric,31OOO.00,EUR,2024/03,Blue Horizon Ltd ,AW24,D3,Wool
+ORD-007,TRIM,3600.00,EUR,03/2024,BLUE HORIZON LTD,AW24,D3,Wool
+ORD-007,outsource,7200.00,EUR,Mar-2024,Blue Horizon Ltd,AW24,D3,Wool
+ORD-008,fabric ,9500.00,VND,2024-03,New Wave Co.,SS24,D2,Polyester
+ORD-008,trim,1200.00,VND,March 2024,new wave co.,SS24,D2,Polyester
+ORD-008, FABRIC,95OO.00,VND,03-2024,New Wave Co. ,SS24,D2,Polyester
+ORD-009,fabric,14200.00,USD,April 2024,Sunrise Apparel,SS25,D1,Cotton
+ORD-009,trim,2100.00,USD,2024-04,Sunrise Apparel,SS25,D1,Cotton
+ORD-009,outsource,3800.00,USD,04/2024,sunrise apparel,SS25,D1,Cotton
+ORD-010,FABRIC,26500.00,EUR,2024-04,New Wave Co.,SS25,D1,Linen
+ORD-010,trim,41OO.00,EUR,Apr-2024,New Wave Co. ,SS25,D1,Linen
+ORD-010,outsource,5900.00,EUR,April 2024,NEW WAVE CO.,SS25,D1,Linen
+ORD-099,fabric,5000.00,USD,2024-02,Unknown Client,SS24,D1,Cotton
+ORD-099,trim,1200.00,USD,Feb 2024,Unknown Client ,SS24,D1,Cotton

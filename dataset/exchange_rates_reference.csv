@@ -1,0 +1,4 @@
+currency,currency_name,rate_to_vnd,effective_date,rate_type
+USD,US Dollar,26000,2024-01-01,DEFAULT
+EUR,Euro,27000,2024-01-01,DEFAULT
+VND,Vietnamese Dong,1,2024-01-01,DEFAULT

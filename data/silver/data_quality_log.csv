@@ -1,0 +1,17 @@
+check_name,table_name,result,row_count,checked_at,details
+row_count_not_empty,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,348 rows present
+mandatory_column_present,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,Column 'UA_ID' present with no nulls
+mandatory_column_present,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,Column 'PERIOD' present with no nulls
+mandatory_column_present,kpi_actual_silver,WARNING,348,2026-09-10 10:48:09,"Column 'actual_value' has 69 null value(s) out of 348 (19.8%) — not fully null, but worth reviewing"
+mandatory_column_present,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,Column 'Unit' present with no nulls
+orphans_flagged,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,No orphaned records in this batch — nothing to flag
+no_duplicates_remain,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,"No duplicate rows on key ['UA_ID', 'PERIOD']"
+numeric_column_valid,kpi_actual_silver,PASSED,348,2026-09-10 10:48:09,'actual_value' parses cleanly as numeric for all non-null rows — no leftover OCR-style typos detected
+row_count_not_empty,financial_silver,PASSED,31,2026-09-10 10:48:09,31 rows present
+mandatory_column_present,financial_silver,PASSED,31,2026-09-10 10:48:09,Column 'order_no' present with no nulls
+mandatory_column_present,financial_silver,PASSED,31,2026-09-10 10:48:09,Column 'category' present with no nulls
+mandatory_column_present,financial_silver,PASSED,31,2026-09-10 10:48:09,Column 'period' present with no nulls
+mandatory_column_present,financial_silver,PASSED,31,2026-09-10 10:48:09,Column 'converted_amount_vnd' present with no nulls
+orphans_flagged,financial_silver,WARNING,31,2026-09-10 10:48:09,"2 orphaned record(s) found and correctly flagged (is_orphaned=True) — review recommended, not an error by itself"
+no_duplicates_remain,financial_silver,PASSED,31,2026-09-10 10:48:09,"No duplicate rows on key ['order_no', 'category', 'period']"
+numeric_column_valid,financial_silver,PASSED,31,2026-09-10 10:48:09,'amount' parses cleanly as numeric for all non-null rows — no leftover OCR-style typos detected

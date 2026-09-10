@@ -1,0 +1,82 @@
+[
+  {
+    "order_id": "ORD-001",
+    "customer_id": "CUST-SUNRISE",
+    "order_code": "Seasonal Order SS24",
+    "order_notes": "Rush processing required",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406191+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-002",
+    "customer_id": "CUST-SUNRISE",
+    "order_code": "Bulk Order Q1",
+    "order_notes": "Standard shipping",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406278+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-003",
+    "customer_id": "CUST-SUNRISE",
+    "order_code": "Repeat Order",
+    "order_notes": "Attention: quality check",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406321+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-004",
+    "customer_id": "CUST-SUNRISE",
+    "order_code": "AW24 Collection",
+    "order_notes": "Priority",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406329+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-005",
+    "customer_id": "CUST-NEWWAVE",
+    "order_code": "Sample Order",
+    "order_notes": "",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406338+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-006",
+    "customer_id": "CUST-BLUEHORIZON",
+    "order_code": "Bulk Order Q2",
+    "order_notes": "Inspect upon arrival",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406340+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-007",
+    "customer_id": "CUST-BLUEHORIZON",
+    "order_code": "Premium Collection",
+    "order_notes": "Handle with care",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406342+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-008",
+    "customer_id": "CUST-NEWWAVE",
+    "order_code": "Repeat Order SS24",
+    "order_notes": "",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406344+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-009",
+    "customer_id": "CUST-SUNRISE",
+    "order_code": "SS25 Pre-order",
+    "order_notes": "Expedite",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406347+00:00",
+    "source_file": "mock_orders_headers.json"
+  },
+  {
+    "order_id": "ORD-010",
+    "customer_id": "CUST-NEWWAVE",
+    "order_code": "Linen Collection",
+    "order_notes": "Quality sensitive",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406349+00:00",
+    "source_file": "mock_orders_headers.json"
+  }
+]

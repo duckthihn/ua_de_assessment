@@ -1,0 +1,200 @@
+[
+  {
+    "line_id": 1,
+    "order_id": "ORD-001",
+    "line_description": "Fabric - Cotton",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "1000 meters, White",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406353+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 2,
+    "order_id": "ORD-001",
+    "line_description": "Trim - Buttons",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "500 units, 2-hole",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406355+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 3,
+    "order_id": "ORD-001",
+    "line_description": "Outsource - Cutting",
+    "buyer_contact": "ops@sunrise.com",
+    "line_notes": "Pattern cutting service",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406358+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 4,
+    "order_id": "ORD-002",
+    "line_description": "Fabric - Polyester",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "2000 meters, Black",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406360+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 5,
+    "order_id": "ORD-002",
+    "line_description": "Outsource - Dyeing",
+    "buyer_contact": "ops@sunrise.com",
+    "line_notes": "Batch dyeing",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406363+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 6,
+    "order_id": "ORD-003",
+    "line_description": "Fabric - Cotton",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "500 meters, Red",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406365+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 7,
+    "order_id": "ORD-003",
+    "line_description": "Trim - Zippers",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "200 units, 8 inch",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406367+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 8,
+    "order_id": "ORD-003",
+    "line_description": "Outsource - Printing",
+    "buyer_contact": "ops@sunrise.com",
+    "line_notes": "Screen printing",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406369+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 9,
+    "order_id": "ORD-004",
+    "line_description": "Fabric - Linen",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "800 meters, Natural",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406371+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 10,
+    "order_id": "ORD-004",
+    "line_description": "Trim - Labels",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "1000 units, Woven",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406374+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 11,
+    "order_id": "ORD-005",
+    "line_description": "Fabric - Cotton",
+    "buyer_contact": "purchase@newwave.com",
+    "line_notes": "300 meters, Blue",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406376+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 12,
+    "order_id": "ORD-005",
+    "line_description": "Trim - Elastic",
+    "buyer_contact": "purchase@newwave.com",
+    "line_notes": "100 meters",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406378+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 13,
+    "order_id": "ORD-006",
+    "line_description": "Fabric - Silk",
+    "buyer_contact": "sourcing@bluehorizon.com",
+    "line_notes": "150 meters, Champagne",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406380+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 14,
+    "order_id": "ORD-006",
+    "line_description": "Outsource - Embroidery",
+    "buyer_contact": "production@bluehorizon.com",
+    "line_notes": "Logo embroidery",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406383+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 15,
+    "order_id": "ORD-007",
+    "line_description": "Fabric - Wool",
+    "buyer_contact": "sourcing@bluehorizon.com",
+    "line_notes": "400 meters, Charcoal",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406385+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 16,
+    "order_id": "ORD-007",
+    "line_description": "Trim - Lining",
+    "buyer_contact": "sourcing@bluehorizon.com",
+    "line_notes": "400 meters, Viscose",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406388+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 17,
+    "order_id": "ORD-008",
+    "line_description": "Fabric - Polyester",
+    "buyer_contact": "purchase@newwave.com",
+    "line_notes": "600 meters, Navy",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406390+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 18,
+    "order_id": "ORD-008",
+    "line_description": "Outsource - Finishing",
+    "buyer_contact": "production@newwave.com",
+    "line_notes": "Ironing and packing",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406392+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 19,
+    "order_id": "ORD-009",
+    "line_description": "Fabric - Cotton",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "1200 meters, Ecru",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406396+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 20,
+    "order_id": "ORD-009",
+    "line_description": "Trim - Buttons",
+    "buyer_contact": "procurement@sunrise.com",
+    "line_notes": "800 units, Mother of pearl",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406398+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 21,
+    "order_id": "ORD-010",
+    "line_description": "Fabric - Linen",
+    "buyer_contact": "purchase@newwave.com",
+    "line_notes": "1000 meters, Washed",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406400+00:00",
+    "source_file": "mock_orders_details.json"
+  },
+  {
+    "line_id": 22,
+    "order_id": "ORD-010",
+    "line_description": "Outsource - Garment wash",
+    "buyer_contact": "production@newwave.com",
+    "line_notes": "Enzyme wash",
+    "ingestion_timestamp": "2026-09-10T10:48:09.406402+00:00",
+    "source_file": "mock_orders_details.json"
+  }
+]

@@ -1,0 +1,32 @@
+PILLAR_ID,SP_ID,UA_ID,Pillar,Sub_Pillar,Department,KPI_Name,Sub_KPI_Type,Unit,Yearly_Target,Aggregation_Method,Is_Active,Valid_From,Valid_To,Source_Version
+PIL-FS,SP-FSC,UA-001,FS,Cost Efficiency,Finance,OT Cost Ratio,Direct,%,0.12,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSC,UA-002,FS,Cost Efficiency,Finance,OT Cost Ratio,Indirect,%,0.05,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSC,UA-003,FS,Cost Efficiency,Finance,CMP Cost Ratio,Direct,%,0.08,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSC,UA-004,FS,Cost Efficiency,Finance,CMP Cost Ratio,Indirect,%,0.03,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSR,UA-005,FS,Revenue,Commercial,FOB Revenue,Export,Number,1200000,SUM,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSR,UA-006,FS,Revenue,Commercial,FOB Revenue,Domestic,Number,300000,SUM,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSW,UA-007,FS,Waste,Production,Fabric Waste Rate,,%,0.05,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSW,UA-008,FS,Waste,Production,Fabric Waste Rate,Knit,%,0.04,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSW,UA-009,FS,Waste,Production,Fabric Waste Rate,Woven,%,0.06,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CED,CE-001,CE,Delivery,Logistics,On Time Delivery Rate,Air,%,0.95,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CED,CE-002,CE,Delivery,Logistics,On Time Delivery Rate,Sea,%,0.90,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CEQ,CE-003,CE,Quality,QC,Defect Rate,Critical,%,0.02,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CEQ,CE-004,CE,Quality,QC,Defect Rate,Minor,%,0.05,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CEQ,CE-005,CE,Quality,QC,Customer Returns,,Number,50,SUM,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CEN,CE-006,CE,NPS,Commercial,Net Promoter Score,,Number,70,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-CE,SP-CEN,CE-007,CE,NPS,Commercial,Net Promoter Score,Key Account,Number,75,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFP,OF-001,OF,Productivity,Production,Line Efficiency,Line A,%,0.85,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFP,OF-002,OF,Productivity,Production,Line Efficiency,Line B,%,0.82,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFP,OF-003,OF,Productivity,Production,Line Efficiency,Line C,%,0.80,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFH,OF-004,OF,Headcount,HR,Headcount,Permanent,Number,450,LAST,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFH,OF-005,OF,Headcount,HR,Headcount,Seasonal,Number,80,LAST,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFH,OF-006,OF,Headcount,HR,Headcount,Contractor,Number,30,LAST,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFT2,OF-007,OF,Turnover,HR,Staff Turnover Rate,,%,0.02,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFT,OF-008,OF,Training,HR,Training Completion,Internal,%,1.00,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-OF,SP-OFT,OF-009,OF,Training,HR,Training Completion,External,Number,50,SUM,Y,2024-01-01,9999-12-31,v18
+PIL-PP,SP-PPE,PP-001,PP,Engagement,HR,Employee Engagement Score,,Number,80,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-PP,SP-PPS,PP-002,PP,Safety,HSE,Lost Time Injury Rate,,Number,0,SUM,Y,2024-01-01,9999-12-31,v18
+PIL-PP,SP-PPS,PP-003,PP,Safety,HSE,Near Miss Reports,,Number,10,SUM,Y,2024-01-01,9999-12-31,v18
+PIL-PP,SP-PPW,PP-004,PP,Wellness,HR,Sick Days per Employee,,Number,3,AVERAGE,Y,2024-01-01,9999-12-31,v18
+PIL-FS,SP-FSC,UA-001-OLD,FS,Cost Efficiency,Finance,OT Cost Ratio,Direct,%,0.10,AVERAGE,N,2023-01-01,2023-12-31,v15
+PIL-CE,SP-CEQ,CE-003-OLD,CE,Quality,QC,Defect Rate,Critical,%,0.03,AVERAGE,N,2023-01-01,2023-12-31,v15

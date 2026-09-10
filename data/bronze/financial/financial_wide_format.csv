@@ -1,0 +1,33 @@
+category,value,31/01/2024,28/02/2024,31/03/2024,30/04/2024
+fabric,ORD-001,15000.00,,,
+trim,ORD-001,3200.00,,,
+outsource,ORD-001,1800.00,,,
+fabric,ORD-002,875O.00,,,
+outsource,ORD-002,2100.00,,,
+trim,ORD-002,950.00,,,
+fabric,ORD-003,12000.00,,,
+outsource,ORD-003,4500.00,,,
+TRIM,ORD-003,2200.00,,,
+fabric,ORD-004,,9800.00,,
+trim,ORD-004,,1500.00,,
+outsource ,ORD-004,,3200.00,,
+FABRIC,ORD-005,,22000.00,,
+Trim,ORD-005,,41OO.00,,
+outsource,ORD-005,,6200.00,,
+fabric,ORD-006,,,18500.00,
+trim,ORD-006,,,2800.00,
+outsource,ORD-006,,,4100.00,
+fabric,ORD-007,,,31OOO.00,
+TRIM,ORD-007,,,3600.00,
+outsource,ORD-007,,,7200.00,
+fabric ,ORD-008,,,9500.00,
+trim,ORD-008,,,1200.00,
+FABRIC,ORD-008,,,95OO.00,
+fabric,ORD-009,,,,14200.00
+trim,ORD-009,,,,2100.00
+outsource,ORD-009,,,,3800.00
+FABRIC,ORD-010,,,,26500.00
+trim,ORD-010,,,,41OO.00
+outsource,ORD-010,,,,5900.00
+fabric,ORD-099,,5000.00,,
+trim,ORD-099,,1200.00,,

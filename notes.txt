@@ -1,0 +1,9 @@
+todo:
+- fix data_quality.py (add checked_at timestamp to log)
+- fix airflow dag task dependencies & retries
+- erp api ingestion: map fields + add bronze metadata
+- silver kpi: ocr typo fix (O -> 0), unpivot M1-M12 & Jan-24, match master
+- silver fin: Sunrise Apparel name cleanup + flag orphan ORD-099
+- gold layer: achievement % (higher/lower is better) & pillar monthly rollup
+- test main.py end-to-end
+- complete scenario answers (4B, 8B, 10A-10D)
